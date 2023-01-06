@@ -3,7 +3,7 @@
 <param ve-config 
        title="Gilliflower"
        author="Lucas Mertehikian"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://commons.wikimedia.org/wiki/Category:Cornish_Gilliflower_(apple)#/media/File:The_Pomological_magazine_(Pl._140)_(8744838482).jpg" 
+     banner="url=https://commons.wikimedia.org/wiki/Category:Cornish_Gilliflower_(apple)#/media/File:The_Pomological_magazine_(Pl._140)_(8744838482).jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
