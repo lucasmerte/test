@@ -3,7 +3,7 @@
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
        author="Lucas Mertehikian"
-       banner="MateBanner.jpg" 
+       banner="Mate-Banner.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
