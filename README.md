@@ -22,7 +22,7 @@
        label="Gauchos in Hope Place"
        description="Painting by William Pownell"
        license="public domain"
-       fit="cover">
+       fit="contain">
 
 ## History 
 
