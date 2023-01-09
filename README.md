@@ -16,6 +16,13 @@
        description="Painting by Juan Manuel Blanes"
        license="public domain"
        region="47,117,470,373">
+       
+<param ve-image
+       url="Gauchosmate2.jpg"
+       label="Gauchos in Hope Place"
+       description="Painting by William Pownell"
+       license="public domain"
+       fit="contain">
 
 ## History 
 
