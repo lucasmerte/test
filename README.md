@@ -3,7 +3,7 @@
 <param ve-config 
        title="Yerba Mate: From Sacred Drink to Caffeinated Star"
        author="Lucas Mertehikian"
-       banner="Yerbamate.jpg" 
+       banner="Yerbamate1.jpg" 
        layout="vertical">
 
 ## Introduction
