@@ -16,10 +16,11 @@
        description="Painting by Juan Manuel Blanes"
        license="public domain"
        fit="cover">
+       
 <param ve-image
-       url="Gauchomate.jpg"
-       label="Gaucho Drinking Mate"
-       description="Painting by Juan Manuel Blanes"
+       url="Gauchosmate2.jpg"
+       label="Gauchos in Hope Place"
+       description="Painting by William Pownell"
        license="public domain"
        fit="cover">
 
