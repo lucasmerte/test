@@ -12,7 +12,7 @@
 
 <param ve-image
        url="Gauchomate.jpg"
-       label="Gaucho Drinking Mate"
+       label="Gaucho"
        description="Painting by Juan Manuel Blanes"
        license="public domain"
        fit="cover">
