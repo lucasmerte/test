@@ -16,6 +16,12 @@
        description="Painting by Juan Manuel Blanes"
        license="public domain"
        fit="cover">
+<param ve-image
+       url="Gauchomate.jpg"
+       label="Gaucho Drinking Mate"
+       description="Painting by Juan Manuel Blanes"
+       license="public domain"
+       fit="cover">
 
 ## History 
 
