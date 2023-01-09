@@ -10,43 +10,17 @@
 
 [_Ilex paraguariensis_](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) is an evergreen shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay, and Argentina that can grow up to forty-nine feet tall. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has stimulant, diuretic, antioxidant, and antimicrobial properties that made it attractive to both the indigenous Guaraní people and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea. The loose powder is typically steeped in hot water in a <span data-mouseover-image-zoomto="824,800,1152,938">drinking vessel</span> and strained through a metallic straw, or bombilla, shared by many people, passing from mouth to mouth. During the 19th century, the drink became associated with South American _gauchos_. Even today in South American countries, the same mate and bombilla are shared in social gatherings, a habit that has endured despite recent public health campaigns to prevent <span eid="Q84263196">COVID-19</span>. Drinking mate remains, above all, a bonding ritual.
 
-<param ve-compare curtain 
-	compare="true"
-url="https://upload.wikimedia.org/wikipedia/commons/4/45/Apollo_%26_Daphne_September_2015-1a.jpg"
-label="Apollo and Daphne" 
-description="sculpture by Gian Lorenzo Bernini"
-license="CC BY-SA 4.0">
-<param ve-compare 
-url="https://upload.wikimedia.org/wikipedia/commons/0/0e/Gianlorenzo_bernini%2C_apollo_e_adfne%2C_marmo%2C_1622-25%2C_03.jpg"
-label="Apollo and Daphne" 
-description="sculpture by Gian Lorenzo Bernini"
-license="CC BY-SA 4.0">
-
-
-
-
-
-
-
-
-
-
-## History 
-
-The plant was first given its Western scientific name by French botanist Auguste de Saint-Hilaire, who traveled throughout South America between 1816 and 1822. Saint Hilaire first identified Ilex paraguariensis, which he deemed an “interesting” tree, among the ruins of the former Jesuit missions in Paraguay and Brazil.  Like many other European botanists of his time, Saint Hilaire was not only concerned with the classification of plants but also with their medicinal and commercial value, and mate was already one of the most traded commodities in the region. In fact, on the title page of his Plantes usuelles des Brasiliens (1824), Saint Hilaire reproduced a quotation by Swiss botanist Augustin Pyramus de Candolle claiming that “the habitants of the Americas will become more and more independent of the Old World by using similar plants for the same purposes as we do.” Paradoxically, the history of mate is a case study of how American plants were turned into commodities to strengthen European rule over Indigenous peoples rather than to foster their autonomy and independence.
-
-<param ve-compare curtain
-       compare="true"
+<param ve-image
        url="Gauchomate.jpg"
        label="Gaucho Drinking Mate"
        description="Painting by Juan Manuel Blanes"
        license="public domain"
        fit="cover">
-<param ve-compare curtain
-       url="Gauchosmate2.jpg"
-       label="Gauchos in Hope Place"
-       description="Painting by William Pownell"
-       license="public domain"
-       fit="contain">
+
+## History 
+
+The plant was first given its Western scientific name by French botanist Auguste de Saint-Hilaire, who traveled throughout South America between 1816 and 1822. Saint Hilaire first identified Ilex paraguariensis, which he deemed an “interesting” tree, among the ruins of the former Jesuit missions in Paraguay and Brazil.  Like many other European botanists of his time, Saint Hilaire was not only concerned with the classification of plants but also with their medicinal and commercial value, and mate was already one of the most traded commodities in the region. In fact, on the title page of his Plantes usuelles des Brasiliens (1824), Saint Hilaire reproduced a quotation by Swiss botanist Augustin Pyramus de Candolle claiming that “the habitants of the Americas will become more and more independent of the Old World by using similar plants for the same purposes as we do.” Paradoxically, the history of mate is a case study of how American plants were turned into commodities to strengthen European rule over Indigenous peoples rather than to foster their autonomy and independence.
+
+
        
 
