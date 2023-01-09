@@ -6,47 +6,21 @@
        banner="Mate-Banner.jpg" 
        layout="vertical">
 
-<!-- Entities discussed throughout the essay are typically defined before the essay text and
-     are thus available in all text.  Entity identifiers (QIDs) can be found in either
-     Wikipedia or Wikidata (https://www.wikidata.org)> -->
-<param ve-entity eid="Q185372"> <!-- Girl with a Pearl Earring painting -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
-<param ve-entity eid="Q221092"> <!-- Mauritshuis -->
-<param ve-entity eid="Q36600"> <!-- The Hague -->
+## Introduction
 
-## Sample visual essay
+_Ilex paraguariensis_ is an evergreen shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay, and Argentina that can grow up to forty-nine feet tall. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has stimulant, diuretic, antioxidant, and antimicrobial properties that made it attractive to both the [indigenous Guaraní people]( and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea. The loose powder is typically steeped in hot water in a drinking vessel (also called a mate) and strained through a metallic straw, or bombilla, shared by many people, passing from mouth to mouth. Although the origins of its group consumption are obscure, recent research suggests that it might have been part of Guaraní celebrations in honor of Tupâ, the god of rain and water. Even today in South American countries, the same mate and bombilla are shared in social gatherings, a habit that has endured despite recent public health campaigns to prevent <span eid="Q84263196">COVID-19</span>. Drinking mate remains, above all, a bonding ritual.
 
-This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are [available] (https://lab.plant-humanities.org) for reference.
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-# Basic usage
+## History 
 
-## Image
+The plant was first given its Western scientific name by French botanist Auguste de Saint-Hilaire, who traveled throughout South America between 1816 and 1822. Saint Hilaire first identified Ilex paraguariensis, which he deemed an “interesting” tree, among the ruins of the former Jesuit missions in Paraguay and Brazil.  Like many other European botanists of his time, Saint Hilaire was not only concerned with the classification of plants but also with their medicinal and commercial value, and mate was already one of the most traded commodities in the region. In fact, on the title page of his Plantes usuelles des Brasiliens (1824), Saint Hilaire reproduced a quotation by Swiss botanist Augustin Pyramus de Candolle claiming that “the habitants of the Americas will become more and more independent of the Old World by using similar plants for the same purposes as we do.” Paradoxically, the history of mate is a case study of how American plants were turned into commodities to strengthen European rule over Indigenous peoples rather than to foster their autonomy and independence.
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
-dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
-20th century after the earring worn by the girl portrayed there.[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
 
-## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various 
-literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
-
-## Multiple viewers
-
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
-Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
-
-# References
-
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
