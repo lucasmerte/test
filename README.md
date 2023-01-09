@@ -15,7 +15,7 @@
        label="Gaucho Drinking Mate"
        description="Painting by Juan Manuel Blanes"
        license="public domain"
-       fit="cover">
+       region="-187,-20,940,888">
 
 ## History 
 
