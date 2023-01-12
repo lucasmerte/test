@@ -17,7 +17,21 @@
        license="public domain"
        region="47,117,470,373">
        
+<param ve-image
+       url="Gauchosmate2.jpg"
+       label="Gaucho Drinking Mate"
+       description="Painting by Juan Manuel Blanes"
+       license="public domain"
+       region="47,117,470,373">
 
+<param ve-image
+       url="Gauchomate.jpg"
+       label="Gaucho Drinking Mate"
+       description="Painting by Juan Manuel Blanes"
+       license="public domain"
+       region="47,117,470,373">
+       
+       
 
 ## History 
 
