@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#fa8d3be6-0574-47f3-9c2e-c3653faa762f"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Horse riding",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/1679751cb10a4f30623cac63777683b6bcb509d6237d3f1ddd6d3b13b53a70fb",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:436.4675598144531,168.2519073486328,50.54010009765625,106.77482604980469"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#ca136c54-dad6-4be5-a6e3-f244c5fa1c24"
   }
 ]
