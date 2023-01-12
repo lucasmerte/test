@@ -18,5 +18,25 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "#caafd9fa-45f1-4194-9564-fee4af520a6c"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "equipment",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/25553a15e815350432e2e60bb5c851e5ae10fc572ba03b9b0044a7e43239b4c0",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:400.44384765625,273.3982238769531,50.387725830078125,111.24560546875"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#614ba7ee-cc55-408d-b400-f510a7b38916"
   }
 ]
