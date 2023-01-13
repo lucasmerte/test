@@ -18,17 +18,14 @@
        region="47,117,470,373">
        
 ## Distribution
-Rome, the capital of Italy, is a large cosmopolitan city with an influential artistic, architectural, and cultural history that dates back almost 3000 years. Ancient ruins such as the Roman Forum and the <span data-mouseover-map-flyto="41.89019, 12.49140, 14">Colosseum</span> testify to the power of the ancient Roman Empire. Vatican City, seat of the Catholic Church, is home to the Basilica of Saint Peter’s and the Vatican Museums, which house world-renowned artistic masterpieces such as the Sistine Chapel frescoed by Michelangelo.
- 
+
+_Mate_ is native to Argentina, Paraguay, Uruguay, and Brazil. Since the 16th century, it was associated with Paraguay, which dominated world trade. _Mate_, in fact, is still known around the world as _Paraguay tea_.
+
 <param ve-map
-center="41.89293, 12.49058"
+center="Q733"
 zoom="5"
-Title="City of Rome"
-prefer-geojson>
-<param ve-map-layer geojson
-	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/Peony/Song.json"
-show-labels
-stroke-width="0">
+title="Paraguay"
+show-labels>
 
 
 ## History 
