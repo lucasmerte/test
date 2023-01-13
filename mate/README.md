@@ -43,7 +43,7 @@ center="-14.044650, -60.407159"
 zoom="3"
 title="Yerba Mate"
 prefer-geojson>
-
+<param ve-map basemap="Esri_WorldPhysical">
 
 
 ## History 
