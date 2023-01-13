@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Vessel",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://raw.githubusercontent.com/lucasmerte/test/4c20e8f/mate/Gauchomate.jpg",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:235.04432678222656,282.99822998046875,107.79963684082031,160.70745849609375"
+      }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "#b6188c6c-9593-4d48-9d3f-45a57e8b4d7c"
+  }
+]
