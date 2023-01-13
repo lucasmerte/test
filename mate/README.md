@@ -22,11 +22,11 @@
 _Mate_ is native to Argentina, Paraguay, Uruguay, and Brazil. Since the 16th century, it was associated with Paraguay, which dominated world trade. _Mate_, in fact, is still known around the world as _Paraguay tea_. 
 
 <param ve-map
-center="Q733"
+center="41.89293, 12.49058"
 zoom="5"
-title="Paraguay"
-show-labels"
-basemap="Esri_WorldPhysical">
+Title="City of Rome"
+show-labels>
+<param ve-map basemap="Esri_WorldPhysical">
 
 ## History 
 
