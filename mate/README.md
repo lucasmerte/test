@@ -30,7 +30,7 @@ show-labels>
        
 ## Distribution
 
-_Mate_ is native to Argentina, Paraguay, Uruguay, and Brazil. Since the 16th century, it was associated with Paraguay, which dominated world trade. _Mate_, in fact, is still known around the world as <span data-mouseover-map-flyto="-25.311734, -57.547280"> _Paraguay tea_</span>.
+_Mate_ is native to Argentina, Paraguay, Uruguay, and Brazil. Since the 16th century, it was associated with Paraguay, which dominated world trade. _Mate_, in fact, is still known around the world as <span data-mouseover-map-flyto="-25.311734, -57.547280, 14"> Asuncion tea_</span>.
 
 <param ve-map
 center="Q733"
