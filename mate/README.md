@@ -24,8 +24,12 @@ Rome, the capital of Italy, is a large cosmopolitan city with an influential art
 center="41.89293, 12.49058"
 zoom="5"
 Title="City of Rome"
-show-labels>
-<param ve-map basemap="Esri_WorldPhysical">
+prefer-geojson>
+<param ve-map-layer geojson
+	url="https://raw.githubusercontent.com/JSTOR-Labs/plant-humanities/main/Peony/Song.json"
+show-labels
+stroke-width="0">
+
 
 ## History 
 
