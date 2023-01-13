@@ -32,8 +32,7 @@ _Mate_ is native to Argentina, Paraguay, Uruguay, and Brazil. Since the 16th cen
 <param ve-map
 center="Q733"
 zoom="5"
-title="Paraguay"
-prefer-geojson>
+title="Paraguay">
 
 
 
