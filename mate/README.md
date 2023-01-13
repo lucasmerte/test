@@ -40,7 +40,7 @@ _Mate_ is native to Argentina, Paraguay, Uruguay, and Brazil. Since the 16th cen
 <param ve-entity eid="Q77">  
 <param ve-map
 center="-14.044650, -60.407159"
-zoom="1"
+zoom="3"
 title="Yerba Mate"
 prefer-geojson>
 
