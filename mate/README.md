@@ -22,6 +22,7 @@
 
 _Mate_ is native to Argentina, Paraguay, Uruguay, and Brazil. Since the 16th century, it was associated with Paraguay, which dominated world trade. <span data-mouseover-map-flyto="-25.311734, -57.547280, 14">Asunción</span>, in Paraguay, was for a long time considered the world capital of mate
 
+<param ve-entity eid="Q733">
 <param ve-map
 center="Q733"
 zoom="5"
