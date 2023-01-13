@@ -29,11 +29,10 @@ _Mate_ is native to Argentina, Paraguay, Uruguay, and Brazil. Since the 16th cen
 
 <param ve-entity eid="Q733">
 <param ve-entity eid="Q414">
-<param ve-entity eid="Q419">
 <param ve-map
 center="Q733"
 zoom="5"
-title="Paraguay">
+title="Yerba Mate">
 
 
 
