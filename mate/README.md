@@ -59,5 +59,14 @@ The plant was first given its Western scientific name by French botanist Auguste
 <param ve-iframe
 src="https://books.google.com/books?id=M0cAAAAAQAAJ&printsec=frontcover&output=embed">
        
+Yerba mate had a very long history before European settlers arrived in South America.
+
+<param ve-knightlab-timeline
+source="1pgCkXqfsFkIm1O-cCqgNaesQ_vg0oLSLUDqtLyrRaF4"
+timenav-position="bottom"
+hash-bookmark="false”
+initial-zoom="1"
+height="750">
+
 
 
